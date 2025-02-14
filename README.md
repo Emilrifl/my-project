@@ -4,6 +4,9 @@
 
 Laters YouTube Videos
 
-Language and Tools
+### Language and Tools
+![steam](https://shields.microej.com/badge/-steam-f9d79a?style=for-the-badge&logo=steam&logoColor=000000)
+![steam](https://shields.microej.com/badge/-python-f9d79a?style=for-the-badge&logo=steam&logoColor=000000)
+![steam](https://shields.microej.com/badge/-dota_2-f9d79a?style=for-the-badge&logo=steam&logoColor=000000)
 
 Follow Me
