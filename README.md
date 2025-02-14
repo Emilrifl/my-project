@@ -9,4 +9,6 @@ Laters YouTube Videos
 ![steam](https://shields.microej.com/badge/-python-f9d79a?style=for-the-badge&logo=steam&logoColor=000000)
 ![steam](https://shields.microej.com/badge/-dota_2-f9d79a?style=for-the-badge&logo=steam&logoColor=000000)
 
-Follow Me
+### Follow Me
+[![Telegram](https://shields.microej.com/badge/-Telegram-f9d79a?style=for-the-badge&logo=Telegram&logoColor=000000)](https://t.me/Emilrifl)
+[![VK](https://shields.microej.com/badge/-VK-f9d79a?style=for-the-badge&logo=Vk&logoColor=000000)](https://vk.com/emilrifl?ysclid=m75ab9hy7t749976532)
